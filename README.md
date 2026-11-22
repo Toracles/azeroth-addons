@@ -14,3 +14,9 @@ Lancer `node serve.cjs`, puis ouvrir http://127.0.0.1:4173. Les fichiers du site
 
 Les marques World of Warcraft et Spotify appartiennent à leurs détenteurs respectifs. Ce site communautaire est indépendant.
 
+
+## Langues et logos
+
+Le sélecteur FR / EN relie `index.html` et `en.html`. Après une modification du contenu français ou des traductions dans `update-pages.cjs`, exécuter `node update-pages.cjs` pour régénérer la page anglaise. Le trailer original est partagé entre les deux langues.
+
+Les tuiles utilisent le logo Curator fourni dans le workspace et le logo SpotiWoW issu de `Toracles/SpotiWoW-Dev/companion/SpotiWoW-Dev.png`.
