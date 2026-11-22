@@ -1,6 +1,6 @@
 # CloudNine_Ex — Addons for Azeroth
 
-Site vitrine statique français pour Curator OctoWoW et les éditions Octo, Raven et Dev de SpotiWoW. Compatible GitHub Pages, sans compilation.
+Site vitrine statique français pour Curator OctoWoW et SpotiWoW-Dev. Compatible GitHub Pages, sans compilation.
 
 ## Développement
 
